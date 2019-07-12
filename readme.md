@@ -8,4 +8,7 @@ It has all the files that were used in datalab while making the YOLO function.
 
 ## EAST Cloud Function
 It has the main.py which with the function definition and the requirements.py file with the package dependencies. The function is triggered when  file is uploaded to 'indic2019' bucket in Google Cloud Storage
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
  

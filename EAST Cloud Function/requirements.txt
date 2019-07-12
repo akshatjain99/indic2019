@@ -1,0 +1,11 @@
+# Function dependencies, for example:
+# package>=version
+keras
+tensorflow
+opencv-python
+icdar_tools
+numpy
+scipy
+matplotlib
+shapely
+h5py
